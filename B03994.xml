@@ -1,0 +1,259 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from a gentleman in Buckinghamshire near Water-Stratford. To his brother Mr. Thomas Pickfat at the Three Kings in White-cross-street, in London. Giving an account of the doctrine and ... the behaviour of Mr. Mason ... with the hymns they usually sing.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03994</idno>
+            <idno type="STC">Wing L1382C</idno>
+            <idno type="STC">ESTC R179531</idno>
+            <idno type="EEBO-CITATION">53299146</idno>
+            <idno type="OCLC">ocm 53299146</idno>
+            <idno type="VID">179894</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03994)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179894)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2807:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from a gentleman in Buckinghamshire near Water-Stratford. To his brother Mr. Thomas Pickfat at the Three Kings in White-cross-street, in London. Giving an account of the doctrine and ... the behaviour of Mr. Mason ... with the hymns they usually sing.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Randal Taylor ...,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed according to order."</note>
+                  <note>Imperfect: stained, print show-through with much loss of text; t. p. partially obscured.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Sermons --  History and criticism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179894:1" rendition="simple:additions"/>
+            <p>A LETTER FROM A Gentleman in <hi>Buckinghamſhire</hi> near <hi>Water-Stratford,</hi> TO His Brother Mr. <hi>Thomas Pickfat,</hi> at the <hi>Three Kings</hi> in <hi>White-croſs-ſtreet,</hi> in <hi>London.</hi>
+            </p>
+            <p>GIVING An Account of the Doctrine and manner the Behaviour of Mr. <hi>Maſon,</hi> Miniſter <hi>Water-Stratford,</hi> within Two Miles of <hi>Buck<g ref="char:EOLhyphen"/>ingham.</hi>
+            </p>
+            <p>With the HYMNS they uſually ſing.</p>
+            <p>
+               <hi>Licenſed according to Order.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Randal Taylor,</hi> near <hi>Star<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ers Hall,</hi> 1694.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:179894:2"/>
+            <pb n="3" facs="tcp:179894:2"/>
+            <head>A LETTER FROM A Gentleman in <hi>Buckinghamſhire,</hi> near <hi>Water-Stratford,</hi> TO His Brother, Mr. <hi>Thomas Pickfat,</hi> at the <hi>Three Kings</hi> in <hi>VVhite-croſs-ſtreet,</hi> &amp;c.</head>
+            <opener>
+               <salute>Brother,</salute>
+            </opener>
+            <p>I Have here, according to your Deſire, ſent an Account concerning Mr. <hi>Maſon,</hi> Miniſter of <hi>Water Stratford,</hi> Two Miles from <hi>Buckingham:</hi> I have ſent Two Hymns of Mr. <hi>Maſon</hi>'s own making, which He and his Hearers ſing frequently, by which you may gather what their Belief is. But more particularly, I have heard ſome of his Hearers ſay,
+<pb n="4" facs="tcp:179894:3"/>That they did believe they ſhould ſee Chriſt appear, but in what manner they would not be poſitive. Some of them would ſay, Viſibly appear; others ſay, His Appearance in the Clouds, and his Reign in the Clouds. Farther, I have heard them ſay, That thoſe that did believe this, and did ſee his Appearance, ſhould live One thouſand Years, and all that while without Sin; and likewiſe, That the fulneſs of the Gen<g ref="char:EOLhyphen"/>tiles was come in. They call <hi>Water-Stratford,</hi> SION; and count Mr. <hi>Maſon</hi> a Prophet, in the which the <hi>Reve<g ref="char:EOLhyphen"/>lations of St.</hi> John is only to be Revealed. They do conclude this Reign will begin about <hi>Aſcenſion</hi>-Day next; and that all that believe this, muſt dwell at <hi>Stratford,</hi> and there they will be preſerved, and nei<g ref="char:EOLhyphen"/>ther Magiſtrate can meddle with them, nor any other Hurt can befall them; and that they ſhall ſtand upon Mount <hi>Sion,</hi> and ſee all the Wicked round about them be burnt up. They have had Muſick and Dancing, and ſinging of Hymns, and clapping of Hands about Six Weeks, Night and Day: While ſome Sleep, others Sing and Dance.</p>
+            <p>The Week before <hi>Eaſter,</hi> ſeveral Families remo<g ref="char:EOLhyphen"/>ved to <hi>Stratford</hi> to live, carrying all they had thither. They fold Houſes and Land for what they could get. They did, laſt Winter, lay in at <hi>Stratford,</hi> Twenty Quarter of Wheat, Ten Quarter of
+<pb n="5" facs="tcp:179894:3"/>Malt, and Twenty or Thirty Hundred of Cheeſe. This Spring they have laid in ſeveral Fat Bullocks, and Hogs.</p>
+            <p>On <hi>Eaſter-Monday</hi> Night Mr. <hi>Maſon</hi> declares, he ſaw Chriſt; and on the next Lord's-Day following ſome of our Neighbours went to <hi>Stratford</hi> to hear and ſee how the People went on; and being a great Multitude of People gather'd together round the Country, more than the Church could contain, they ſtood in the Miniſter's Yard, and he, out of his Chamber Window, declar'd unto the Multitude, That on the <hi>Monday</hi> Night before, he being in Bed and awake, lying on his Left-ſide he turned himſelf to his Right, he ſaw Chriſt ſitting in a Chair, and a Candle lighted in a Candleſtick ſtanding on a Stool, and that Chriſt was cloathed in a purple Robe dip'd in the Blood of his Enemies; and he confirm'd this with an Oath, ſaying, By the Eternal God what he ſaid was true, and that himſelf was neither in a Dream, nor Mad, nor Drunken, neither was he Af<g ref="char:EOLhyphen"/>frighted. But I cannot underſtand by any, that he ſays the Chriſt which he ſaw did ſpeak to him.</p>
+            <p>He hath not given the Sacraments theſe laſt Two Years. And now they do not Read nor Pray, only Four or Five of the laſt Words of the Lord's
+<pb n="6" facs="tcp:179894:4"/>Prayer, which is in Praiſe of the Glory of God. They ſay <hi>All is done, and there is nothing to be done only to Praiſe God.</hi> They had for their Muſick a Violin, Tabor and Pipe.</p>
+            <p>Thoſe who was of the ſame Faith, they being Poor and having nothing to put into the Stock, they have turned them off about a Week ſince, from be<g ref="char:EOLhyphen"/>ing conſtant to Dyet with them; and they have turn<g ref="char:EOLhyphen"/>ed off ſince, the other Poor of their Faith. There may be about Forty that are conſtant; but there is ſometimes Five Hundred, or One thouſand, or more, to ſee their Faſhions and Actions in Dancing.</p>
+            <p>Your Brother <hi>Tom.</hi> and <hi>George,</hi> and ſome other Young Men of our Town, went laſt <hi>Saturday</hi> Night to ſee them, and ſtayed all Night, and they ſaw them dance all Night, but had no Muſick but only ſing<g ref="char:EOLhyphen"/>ing of Hymns: Their Dancing is in no Order, but after an Antick manner, ſometimes Three taking Hands and jumping round, other while leaping from one end of the Room to the other, catching over their Heads with their Hands, and clapping their Hands, ſaying ſometimes, <hi>Appear, Appear, Appear,</hi> other whiles, <hi>Glory, Glory, Glory.</hi> There is one Dancer among them with a Wooden Leg, and he makes a great noiſe among them with his Leg when he cuts Capers.</p>
+            <pb n="7" facs="tcp:179894:4"/>
+            <p>This Mr. <hi>Maſon</hi> will not diſpute with any Divine concerning his Opinion, but will only ſay, <hi>All is done, they that are Righteous let them be Righteous ſtill; and they that are Filthy, let them be Filthy ſtill.</hi> Divers Miniſters go to ſee him; and in particular, our Mi<g ref="char:EOLhyphen"/>niſter, Mr. <hi>Crofts,</hi> went laſt <hi>Wedneſday,</hi> but could not be admitted to ſee Mr. <hi>Maſon,</hi> he then being Ill with a Quinſie; but with ſome of his Hearers, in particular, the Man with the Wooden Leg, Mr. <hi>Crofts</hi> ſaying, That the Heavens muſt retain Chriſt until the Reſtitution of <hi>all</hi> Things. The Man ſaid, All Things were reſtored. Our Miniſter anſwered, They were not all reſtored, becauſe he had not his good Leg reſtored again.</p>
+            <p>We do hear, that within Two Days paſt, ſome of the Saints of New-named <hi>Sion,</hi> have left it, and goe about their Employments again.</p>
+            <p>I know no more at preſent, but when I am far<g ref="char:EOLhyphen"/>ther ſatisfied of their Proceedings you ſhall know of it.</p>
+            <pb n="8" facs="tcp:179894:5"/>
+            <p>I have ſent Two Hymns. I have a Copy which I borrow'd which had Two more, made by ſome of his Hearers, there being little in them, only taking the Lord's Name often in vain; and time would not per<g ref="char:EOLhyphen"/>mit, I forbear.</p>
+            <closer>
+               <signed>
+                  <hi>Yours,</hi> &amp;c.</signed>
+            </closer>
+         </div>
+         <div type="hymns">
+            <pb n="9" facs="tcp:179894:6" rendition="simple:additions"/>
+            <head>HYMNS MADE By Mr. Maſon, THE MINISTER.</head>
+            <div type="hymn">
+               <head>This HYMN they had before <hi>Chriſtmas:</hi> They Sung this, and the other, in the Tune of a Ballad.</head>
+               <lg>
+                  <l>OUR Jeſus this Day is Proclaim'd in our Streets,</l>
+                  <l>He's viſibly Crown'd, and he's highly Renown'd</l>
+                  <l>From the <hi>Eaſt</hi> to the <hi>Weſt,</hi> from the <hi>North</hi> to the <hi>South:</hi>
+                  </l>
+                  <l>'Tis the Language I hear in every one's Mouth,</l>
+                  <l>That Jeſus is King; let us Joyfully ſing</l>
+                  <l>
+                     <hi>Our Jeſus is King, our Jeſus is King.</hi>
+                  </l>
+               </lg>
+               <pb n="10" facs="tcp:179894:7"/>
+               <lg>
+                  <l>All Glory, All Glory, all Glory alone,</l>
+                  <l>To the Glory that ſits on his Glorious Throne;</l>
+                  <l>All Heavenly ſweet Flowers be ſtrew'd in his way,</l>
+                  <l>Hallelujahs, Hoſanna's with Millions of Praiſe:</l>
+                  <l>All Glory is due to the Holy and True,</l>
+                  <l>Who ſits on his Throne and makes us all New.</l>
+               </lg>
+               <lg>
+                  <l>Come now to his Temple, ye Lookers for Jeſus,</l>
+                  <l>His Honour advance, and his Praiſe in the Dance:</l>
+                  <l>Break forth into Singing ye Mountains and VVoods,</l>
+                  <l>For Joy clap your Hands ye Fountains and Floods,</l>
+                  <l>
+                     <note place="margin">Taken out of <hi>Re<g ref="char:EOLhyphen"/>velations</hi> 15.3, 4.</note> Let him be ador'd by Angels and Men,</l>
+                  <l>And <hi>Sion</hi> adorn'd with her Tabrets again.</l>
+               </lg>
+            </div>
+            <div type="hymn">
+               <pb n="11" facs="tcp:179894:7"/>
+               <head>Another ſince.</head>
+               <lg>
+                  <l>'TIs come, 'tis done, this is the Day.</l>
+                  <l>My promis'd Saviour's come away;</l>
+                  <l>'Tis come, 'tis done, this is the Hour</l>
+                  <l>My Lord aſſumes his Royal Power.</l>
+               </lg>
+               <lg>
+                  <l>'Tis come, 'tis done, this is the Time,</l>
+                  <l>Saints light your Lamps and run to him:</l>
+                  <l>The Day is paſt, my Light is come,</l>
+                  <l>My Chriſt he is the Riſen Sun.</l>
+               </lg>
+               <lg>
+                  <l>The Lord has Judg'd the Curſed VVhore,</l>
+                  <l>Her Smoak roſe up for evermore,</l>
+                  <l>And now all Scandal's at her caſt,</l>
+                  <l>The Beaſt and Dragon chained faſt.</l>
+               </lg>
+               <lg>
+                  <l>Proud <hi>Babylon</hi> in Aſhes lies,</l>
+                  <l>Her Sins have reached to the Skies,</l>
+                  <l>And God to her Reward hath given,</l>
+                  <l>Becauſe her Sins have reach'd to Heaven.</l>
+               </lg>
+               <lg>
+                  <l>Let all the Saints and Angels ſing</l>
+                  <l>Loud Hallelujahs to our King.</l>
+                  <l>
+                     <hi>Amen.</hi> All Honour, Glories due</l>
+                  <l>Unto the Holy, Juſt and True.</l>
+               </lg>
+               <lg>
+                  <l>Salvation to our God on high,</l>
+                  <l>
+                     <hi>Amen, Amen,</hi> the Angels cry.</l>
+               </lg>
+               <pb n="12" facs="tcp:179894:8"/>
+               <lg>
+                  <l>Great and marvellous are thy VVorks</l>
+                  <l>
+                     <hi>Jehovah,</hi> working VVonders;</l>
+                  <l>It lightneth when our Lord appears,</l>
+                  <l>And when he ſpeaks, it thunders.</l>
+               </lg>
+               <lg>
+                  <l>Moſt Juſt and True are all thy ways,</l>
+                  <l>Thy Saints ſhall bleſs thee all their Days:</l>
+                  <l>Thou art our King they gladly ſing,</l>
+                  <l>Thy Subjects are before thee.</l>
+               </lg>
+               <lg>
+                  <l>Had People known thy glorious Name,</l>
+                  <l>They would have Glorify'd thee;</l>
+                  <l>For Lord thou art that Holy One,</l>
+                  <l>And there is none beſide thee.</l>
+               </lg>
+               <lg>
+                  <l>The Nations all ſhall flock and meet</l>
+                  <l>VVith bowed Faces at his Feet;</l>
+                  <l>Thy Judgments ſhew thy Glory now,</l>
+                  <l>Let all the VVorld adore thee.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
